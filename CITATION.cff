@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite it as below."
+type: article
+title: "CAMP: Cognitive Arbitration Mediation Protocol — A Vendor-Neutral Framework for Trust Verification in Multi-Provider AI Ecosystems"
+authors:
+  - family-names: Roșca
+    given-names: Mihai
+    orcid: "https://orcid.org/0009-0001-1422-6209"
+    affiliation: "Independent Researcher, BRIDGRAI Ecosystem"
+    city: Brăila
+    country: RO
+date-released: "2026-09-10"
+license: CC-BY-4.0
+keywords:
+  - cognitive arbitration
+  - trust verification
+  - multi-agent mediation
+  - AI governance
+  - vendor-neutral protocol
+  - provenance engineering
+  - coexistence architecture
+abstract: >
+  This paper introduces CAMP (Cognitive Arbitration Mediation Protocol),
+  a vendor-neutral protocol for trust verification, conflict resolution,
+  and provenance maintenance across multiple cognitive AI services.
+  CAMP defines four formal functions — arbitration, mediation,
+  certification, and provenance anchoring — and positions them within
+  a three-layer coexistence architecture. BRIDGRAI serves as reference
+  implementation with 9 autonomous agents, 6-pillar semantic validation,
+  and blockchain-anchored audit trails.
+repository-code: "https://github.com/amidigiart/camp-protocol"
