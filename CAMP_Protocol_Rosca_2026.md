@@ -319,7 +319,7 @@ This honest assessment matters: CAMP as a protocol is well-defined, but the curr
 
 ### 6.5 Verification Data
 
-- UKBE Core: 102 automated tests across test suite
+- UKBE Core: 175 automated tests across test suite
 - Backbone: 7 invariant axioms (Ω-1 through Ω-7) with automated probe verification
 - A2A Platform: 18 verified integration tests across 9 agents
 - Tezos: all transactions publicly verifiable on mainnet
@@ -492,7 +492,7 @@ All BRIDGRAI components referenced in this paper are publicly available:
 
 - Source code: github.com/amidigiart (75+ public repositories)
 - Blockchain transactions: Tezos mainnet, wallet tz1bmw3igCLN8N6CqgLBzJ9dyRb79E2Tdu5Q
-- Test suites: 102 automated tests (UKBE Core), 18 integration tests (A2A platform)
+- Test suites: 175 automated tests (UKBE Core), 18 integration tests (A2A platform)
 - Coexistence strategy document: timestamped on Tezos blockchain
 
 ## Funding

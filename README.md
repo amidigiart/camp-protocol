@@ -23,7 +23,7 @@ CAMP (Cognitive Arbitration Mediation Protocol) is a vendor-neutral protocol for
 
 ## Reference Implementation
 
-[BRIDGRAI](https://github.com/amidigiart) — 9 autonomous agents, 128 IP assets on Tezos blockchain, 102 automated tests (UKBE Core), 18 integration tests (A2A platform).
+[BRIDGRAI](https://github.com/amidigiart) — 9 autonomous agents, 128 IP assets on Tezos blockchain, 175 automated tests (UKBE Core), 18 integration tests (A2A platform).
 
 ## Related Work
 
